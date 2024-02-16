@@ -1,0 +1,8 @@
+# CaveDweller Prefab Directory
+mklink /d "D:\SteamLibrary\steamapps\common\Dying Light 2\DevTools\projects\local\CaveDweller\source\data\Prefabs" "E:\Source\Dying Light\ProjectSource\Prefabs"
+
+# Intersection Prefab Directory
+mklink /d "D:\SteamLibrary\steamapps\common\Dying Light 2\DevTools\projects\local\Intersection\source\data\Prefabs" "E:\Source\Dying Light\ProjectSource\Prefabs"
+
+# WhatRemains Prefab Directory
+mklink /d "D:\SteamLibrary\steamapps\common\Dying Light 2\DevTools\projects\local\WhatRemains\source\data\Prefabs" "E:\Source\Dying Light\ProjectSource\Prefabs"
